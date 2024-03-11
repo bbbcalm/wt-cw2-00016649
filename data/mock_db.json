@@ -1,17 +1,32 @@
 {
-    "articles": [
-        {
-            "id": 74891794719497,
-            "title": "slkfjlkasjflkj lkasjfkl jalksj fjasl jfklaj faj",
-            "content": "sklfjlkajfkljaskl jdfkljalsk jflkjaslk jfklsj aklfj klajfkl jasklfj lajf",
-            "author": "randomuser@gmail.com"
-        }
-    ],
-    "users": [
-        {
-            "id": 471874919418497817,
-            "email": "randomuser@gmail.com",
-            "password": "ajfkjahfjakljfl"
-        }
-    ]
+  "articles": [
+    {
+      "id": 74891794719497,
+      "title": "slkfjlkasjflkj lkasjfkl jalksj fjasl jfklaj faj",
+      "content": "sklfjlkajfkljaskl jdfkljalsk jflkjaslk jfklsj aklfj klajfkl jasklfj lajf",
+      "author": "randomuser@gmail.com",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 74891794719490,
+      "title": "article1 lkasjfkl jalksj fjasl jfklaj faj fkjaskldfj akj",
+      "content": "sklfjlkajfkljaskl jdfkljalsk jflkjaslk jfklsj aklfj klajfkl jasklfj lajff fjakljs fkjakls jflkajlk fja",
+      "author": "randomuser@gmail.com",
+      "createdAt": "",
+      "updatedAt": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 471874919418497800,
+      "email": "randomuser@gmail.com",
+      "password": "ajfkjahfjakljfl"
+    },
+    {
+      "id": 1710156661959,
+      "email": "newuser@gmail.com",
+      "password": "jfkljaljflakjfl"
+    }
+  ]
 }

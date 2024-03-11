@@ -1,0 +1,11 @@
+extends layout
+block content
+    .container
+      .row
+        each article in articles
+          .col-md-4.mb-4
+            .card
+              .card-body
+                h5.card-title #{article.title}
+                p.card-text #{article.content.substring(0, 100)}...
+                a.btn.btn-primary(href=`/articles/${article.id}`) Read More
