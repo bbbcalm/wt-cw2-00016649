@@ -1,0 +1,17 @@
+{
+    "articles": [
+        {
+            "id": 74891794719497,
+            "title": "slkfjlkasjflkj lkasjfkl jalksj fjasl jfklaj faj",
+            "content": "sklfjlkajfkljaskl jdfkljalsk jflkjaslk jfklsj aklfj klajfkl jasklfj lajf",
+            "author": "randomuser@gmail.com"
+        }
+    ],
+    "users": [
+        {
+            "id": 471874919418497817,
+            "email": "randomuser@gmail.com",
+            "password": "ajfkjahfjakljfl"
+        }
+    ]
+}
