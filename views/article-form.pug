@@ -1,2 +1,13 @@
 extends layout
 block content
+    .container.mt-5
+      .row.justify-content-center
+        .col-md-8
+          form
+            .form-group.mb-3
+              label(for="title") Title:
+              input#title.form-control(type="text", name="title", value=article ? article.title : "", required)
+            .form-group.mb-3
+              label(for="content") Content:
+              textarea#content.form-control(name="content",  rows="10", required)=article ? article.content : ""
+            button.btn.btn-primary(type="submit")=type
