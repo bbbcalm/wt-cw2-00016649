@@ -1,6 +1,6 @@
 import express from "express";
 import { login, signUp } from "../../controllers/auth/index.js";
-import { createNewArticle, deleteArticle, updateArticle } from "../../controllers/articles-crud/index.js";
+import { createNewArticle, deleteArticle, updateArticle } from "../../controllers/articles_crud/index.js";
 
 
 const api_router = express.Router();

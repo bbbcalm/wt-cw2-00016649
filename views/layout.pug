@@ -6,10 +6,18 @@ html
         title Story Tale
 
     body
+        script(src="/scripts/navbar/index.js") 
         script(src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous")
         script(src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.2.1/axios.min.js")
-        nav
-        section
-            
+        nav.navbar.navbar-expand-lg.navbar-light.bg-light(style="display: flex; justify-content: space-between; align-items: center;")
+            a.navbar-brand(href="/", style="text-decoration: none; color: inherit;") Home
+            a.profile-link(href="/sign-up", style="text-decoration: none; color: inherit;").m-2 My Profile
+            button.btn.btn-danger.btn-sign-out(style="text-decoration: none; color: inherit;") Sign Out
+
+
+        section 
             block content
-        footer
+        footer.footer.text-center(style="display: flex; flex-direction: column; position: fixed; left: 0; bottom: 0; width: 100%; z-index: 1000; color: white; background-color: rgba(0, 0, 0, 0.8); padding: 20px;")
+            p This web application was created to fulfill Web Technology module’s requirements and does not represent an actual company or service
+
+

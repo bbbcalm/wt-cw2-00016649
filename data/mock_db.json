@@ -1,32 +1,64 @@
 {
   "articles": [
     {
-      "id": 74891794719497,
-      "title": "slkfjlkasjflkj lkasjfkl jalksj fjasl jfklaj faj",
-      "content": "sklfjlkajfkljaskl jdfkljalsk jflkjaslk jfklsj aklfj klajfkl jasklfj lajf",
-      "author": "randomuser@gmail.com",
-      "createdAt": "",
-      "updatedAt": ""
+      "id": 1710238359383,
+      "title": "The reason of civil problem in Canada",
+      "content": "Civil problems in Canada can stem from a variety of factors including socio-economic disparities, cultural tensions, indigenous rights issues, and disagreements over policies or laws. Historically, disputes over land rights and resource extraction have been significant, particularly with Indigenous communities. In recent years, issues such as environmental protection, immigration policies, and healthcare access have also sparked civil debates. Additionally, cultural diversity within Canada's population can lead to tensions, although the country generally prides itself on multiculturalism. Economic inequality, urban-rural divides, and regional disparities may exacerbate social tensions. Furthermore, legal challenges and court cases can arise from conflicts over rights, discrimination, or constitutional interpretations. Overall, civil problems in Canada often reflect broader societal challenges related to inclusivity, equality, and governance, requiring ongoing dialogue, collaboration, and sometimes legal resolution to address effectively.",
+      "author": "lol@gmail.com",
+      "createdAt": "2024-03-12T10:12:39.383Z",
+      "updatedAt": "2024-03-12T10:12:39.383Z"
     },
     {
-      "id": 74891794719490,
-      "title": "article1 lkasjfkl jalksj fjasl jfklaj faj fkjaskldfj akj",
-      "content": "sklfjlkajfkljaskl jdfkljalsk jflkjaslk jfklsj aklfj klajfkl jasklfj lajff fjakljs fkjakls jflkajlk fja",
-      "author": "randomuser@gmail.com",
-      "createdAt": "",
-      "updatedAt": ""
+      "id": 1710238415301,
+      "title": "How to remove acne?",
+      "content": "To remove acne, maintain a consistent skincare routine with gentle cleansers and non-comedogenic products. Use products containing salicylic acid or benzoyl peroxide to unclog pores and reduce inflammation. Keep your skin hydrated with oil-free moisturizers and drink plenty of water. Avoid picking or squeezing acne, as it can worsen inflammation and scarring. In severe cases, consult a dermatologist who may recommend prescription treatments like retinoids or oral medications. Additionally, prioritize a healthy lifestyle with balanced nutrition, regular exercise, and stress management, as these factors can influence acne flare-ups.",
+      "author": "lol@gmail.com",
+      "createdAt": "2024-03-12T10:13:35.301Z",
+      "updatedAt": "2024-03-12T10:13:35.301Z"
+    },
+    {
+      "id": 1710238452607,
+      "title": "CS2 better than DOTA2?",
+      "content": "Comparing CS:GO and Dota 2 is subjective. CS:GO focuses on tactical shooting while Dota 2 is a multiplayer online battle arena (MOBA) game. Preferences vary based on gameplay style. CS:GO emphasizes teamwork, strategy, and reflexes, while Dota 2 involves strategy, teamwork, and character abilities. Both have dedicated fan bases.",
+      "author": "lol@gmail.com",
+      "createdAt": "2024-03-12T10:14:12.607Z",
+      "updatedAt": "2024-03-12T10:14:12.607Z"
+    },
+    {
+      "id": 1710238478236,
+      "title": "The easiest way to find diamonds in Minecraft",
+      "content": "The easiest way to find diamonds in Minecraft is to mine at lower levels (around Y=11) where diamonds are most commonly found. Use techniques like branch mining or strip mining to cover more ground efficiently. Also, bring plenty of torches for illumination and use an enchanted diamond or iron pickaxe for faster mining.",
+      "author": "lol@gmail.com",
+      "createdAt": "2024-03-12T10:14:38.236Z",
+      "updatedAt": "2024-03-12T10:14:38.236Z"
+    },
+    {
+      "id": 1710238499055,
+      "title": "How to cook boiled eggs?",
+      "content": "To cook boiled eggs, start by placing eggs in a pot and covering them with cold water. Bring the water to a boil over medium-high heat. Once boiling, reduce the heat to a simmer and let the eggs cook for 9-12 minutes, depending on desired doneness (9 minutes for soft-boiled, 12 minutes for hard-boiled). Then, immediately transfer the eggs to a bowl of ice water to stop the cooking process. Finally, peel the eggs under cold running water and enjoy them as desired.",
+      "author": "lol@gmail.com",
+      "createdAt": "2024-03-12T10:14:59.055Z",
+      "updatedAt": "2024-03-12T10:14:59.055Z"
+    },
+    {
+      "id": 1710238527037,
+      "title": "How much time do I need to create a doll?",
+      "content": "The time required to create a doll varies greatly depending on factors such as the doll's complexity, size, materials used, and your skill level. Simple cloth dolls might take a few hours to a day, while more intricate dolls with detailed features or made from sculpted materials like clay may take several days or even weeks to complete. It's best to plan ahead, allowing yourself enough time to work on each stage of the doll-making process carefully and enjoyably.",
+      "author": "lol@gmail.com",
+      "createdAt": "2024-03-12T10:15:27.037Z",
+      "updatedAt": "2024-03-12T10:15:27.037Z"
     }
   ],
   "users": [
     {
-      "id": 4718749194184978,
-      "email": "randomuser@gmail.com",
-      "password": "ajfkjahfjakljfl"
+      "id": 1710238248476,
+      "email": "lol@gmail.com",
+      "password": "123"
     },
     {
-      "id": 1710156661959,
-      "email": "newuser@gmail.com",
-      "password": "jfkljaljflakjfl"
+      "id": 1710266544802,
+      "email": "fhjadhfjajshdf@gmail.com",
+      "password": "fjlakjsfkjklaskjfaf"
     }
   ]
 }

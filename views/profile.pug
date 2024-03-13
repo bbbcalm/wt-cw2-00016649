@@ -1,5 +1,18 @@
 extends layout
 block content
-    h3=user.email
-    each article in userArticles
-        h3=article.title
+    script(src="/scripts/profile/index.js") 
+    h3.text-center=user.email
+    .container
+        .row.justify-content-center
+            each article in userArticles
+                .col-md-4.mb-4
+                    .card
+                        .card-body
+                            h5=article.title
+                            p.card-text #{article.content.substring(0, 100)}...
+                            .d-flex.justify-content-between
+                                a.btn.btn-primary(href=`/articles/${article.id}`) Read More
+                                a.btn.btn-success.edit-btn(href=`/edit-article/${article.id}`) Edit
+                                button.btn.btn-danger.btn-delete Delete
+
+                            

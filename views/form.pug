@@ -1,14 +1,18 @@
 extends layout
 block content
-    h3.text-center=title
+    script(src="/scripts/auth/index.js") 
+    h3.text-center.mt-3=title
     .container
       .row.justify-content-center.mt-5
         .col-md-6.d-flex.justify-content-center.align-items-center
-          form(action="/register", method="POST")#sign-up_form
+          form#sign-up_form
             .form-group.mb-3
               label(for="email") Email:
               input#email.form-control(type="email", name="email", placeholder="Enter email" required)
             .form-group.mb-3
               label(for="password") Password:
               input#password.form-control(type="password", placeholder="Enter password" name="password", required)
-            button.btn.btn-primary(type="submit")=title
+            .d-flex.flex-column.gap-3.align-items-center
+              span=switchTo.option
+                a(href=switchTo.href)=switchTo.linkText
+              button.btn.btn-primary(type="submit").w-100=title
