@@ -15,7 +15,7 @@ The structure of the folders which was used by me is here:
 
 Link on my GitHub Repository: https://github.com/bbbcalm/wt-cw2-00016649
 
-The Deployed Version can be seen via this link: 
+The Deployed Version can be seen via this link: https://13.48.26.86:3000/
 
 In order to build this project the following technologies were used by me:
 
